@@ -35,6 +35,7 @@ h2{
 nav{
 	width: 1200px;
 	height: 50px;
+	font-family: 'Calibri';
 	background-color: #004669;
 	border-top-right-radius: 10px;
 	border-bottom-left-radius: 10px;
@@ -69,6 +70,7 @@ section{
 	width: 680px;
 	height: 1000px;
 	float: left;
+	font-family: 'Calibri';
 	border-style: solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
@@ -91,6 +93,7 @@ aside{
 footer{
 	width: 1200px;
 	height: 200px;
+	font-family: 'Calibri';
 	background: #004669;
 	color: white;
 	float: left;
@@ -107,6 +110,7 @@ p{
 }
 
 h5{
+	font-family: 'Calibri';
 	padding: 10px;
 	font-size: 25px;
 }
@@ -133,5 +137,11 @@ h5{
 h6{
 	padding: 10px;
 	color: white;
+	font-size: 18px;
+}
+
+h4{
+	font-family: 'Calibri';
+	padding: 10px;
 	font-size: 18px;
 }
